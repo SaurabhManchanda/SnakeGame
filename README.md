@@ -1,4 +1,4 @@
-# SnakeGame
+# SnakeGame Made By Saurabh Manchanda
 Controls
 Press w for up
 Press s for down
